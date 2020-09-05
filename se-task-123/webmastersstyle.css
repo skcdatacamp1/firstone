@@ -1,0 +1,39 @@
+.pic{
+	width:80px;
+	height:100px;
+	
+}
+img{
+	padding:20px;
+	height:auto;
+	width:100%;
+	margin:10px;
+	border-radius:50%;
+}
+.search{
+	position:fixed;
+	left:35%;
+	top:45%;
+	
+}
+.box input{
+	
+	
+	margin:20px;
+	padding:10px;
+	width:300px;
+	height:20px;
+	border-radius:20px;
+}
+.btn input{
+	border-radius:20px;
+	width:100px;
+	height:30px;
+	margin:0px 120px 0px 120px;
+	
+}
+
+.pic:hover{
+	transform: scale(1.5);
+	transition:0.5s ease;
+}
